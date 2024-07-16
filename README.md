@@ -1,1 +1,1 @@
-# CI-CD-for-React
+# CI/CD-for-React
